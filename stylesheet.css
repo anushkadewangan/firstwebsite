@@ -77,10 +77,10 @@ input, textarea {
 
 /* Add CSS for contact-submit */
 .contact-submit {
-  background-color: #dee7ec;
-  color: #889eab;
+  background-color: #2f5167;
+  color: #fff;
 }
-
+/* changed the send button color */
 .footer {
   background-color: #2f5167;
   color: #fff;
